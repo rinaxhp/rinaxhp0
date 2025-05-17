@@ -1,3 +1,7 @@
+
+ ![Snake animation](https://github.com/rinaxhp/rinaxhp/blob/output/github-contribution-grid-snake.sv
+
+
 <div>
   <img align="right" alt="Rina-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
  </div>
